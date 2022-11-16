@@ -1,5 +1,5 @@
 <h3 align="center"> - 👋 Hi, I’m @ArelyGutierrez </h3> 
-<img align="left" alt="coding" width="300"  src="https://img.wattpad.com/a268aefed387154052c43e80cd25332656cf4445/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f7857704471526c3645444b6c31773d3d2d3931323533363431302e313631643336376330653536643065373333373435373133333438392e676966"  width="30%" height="50%">
+<img align="left" alt="coding" width="300"  src="https://img.wattpad.com/a268aefed387154052c43e80cd25332656cf4445/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f7857704471526c3645444b6c31773d3d2d3931323533363431302e313631643336376330653536643065373333373435373133333438392e676966"  width="50" height="250">
 <img src="https://readme-typing-svg.demolab.com/?lines=Front-End Developer; &font=Fira%20Code&center=true&width=440&height=45&color=7230B4 &v Center=true&size=22&pause=1000" />
 - 👀 I’m interested in ... developing my skills, acquiring new ones and taking advantage of them for my life and work projects.
 - 🌱 I’m currently learning ... JavaScrit, CSS, HTML, Git, Node, REACT.
