@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Front-End Developer; &font=Fira%20Code&center=true&width=440&height=45&color=7230B4 &v Center=true&size=22&pause=1000" />
 <p align="left"> - 👀 I’m interested in ... developing my skills, acquiring new ones and taking advantage of them for my life and work projects.</p>
 <p align="left"> - 🌱 I’m currently learning ... JavaScrit, CSS, HTML, Git, Node, REACT.</p>
-<p>- 😄 Pronouns: ... she/her</p>
 <p>- ⚡ Fun fact: ... I like to dance and meet new places and people. Besides I've always followed the phrase "Promote what you love instead of attacking what you don't like"</p>
 <p align="left"> - 📫 How to reach me ...
 <a href="https://www.linkedin.com/in/nancy-arely-guti%C3%A9rrez-morales-3a5941149/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -21,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h3 align="left">Tech Skills:</h3>
-<p align="center">  
+<p align="left">  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
