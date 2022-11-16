@@ -1,12 +1,17 @@
 <h3 align="left"> - 👋 Hi, I’m @ArelyGutierrez </h3>
 <p align="left"> - 👀 I’m interested in ... developing my skills, acquiring new ones and taking advantage of them for my life and work projects.</p>
 <p align="left"> - 🌱 I’m currently learning ... JavaScrit, CSS, HTML, Git, Node, REACT.</p>
+<p>- 😄 Pronouns: ... she/her</p>
+<p>- ⚡ Fun fact: ... I like to dance and meet new places and people. Besides I've always followed the phrase "Promote what you love instead of attacking what you don't like"</p>
 <p align="left"> - 📫 How to reach me ...
 <a href="https://www.linkedin.com/in/nancy-arely-guti%C3%A9rrez-morales-3a5941149/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/ArelyGutierrez" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://app.slack.com/client/T0NNB6T0R/C03NE0ZU1DH/rimeto_profile/U03N7LQ0422" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)"></a>
 <a target="_blank" href="mailto:yleraycnan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </p>
+
+<img align="right" alt="coding" width="300"  src="https://media.tenor.com/ii6XtJkz3-cAAAAC/ucentral-colibr%C3%AD-u-central.gif">
+
 <img src="https://readme-typing-svg.demolab.com/?lines=Front-End Developer; Promote%20what%20you%20love&font=Fira%20Code&center=true&width=440&height=45&color=7230B4 &v Center=true&size=22&pause=1000" /></a>
 <!---
 <a href="yleraycnan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -30,6 +35,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArelyGutierrez&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArelyGutierrez&layout=compact)](https://github.com/ArelyGutierrez)
+ <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arelygutierrez&layout=compact)](https://github.com/arelygutierrez/)--->
+ <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArelyGutierrez&layout=compact)](https://github.com/ArelyGutierrez) --->
 
