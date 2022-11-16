@@ -1,10 +1,10 @@
 <h3 align="center"> - 👋 Hi, I’m @ArelyGutierrez </h3> 
-<img align="left" alt="coding" width="300"  src="https://img.wattpad.com/a268aefed387154052c43e80cd25332656cf4445/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f7857704471526c3645444b6c31773d3d2d3931323533363431302e313631643336376330653536643065373333373435373133333438392e676966">
+<img align="left" alt="coding" width="300"  src="https://img.wattpad.com/a268aefed387154052c43e80cd25332656cf4445/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f7857704471526c3645444b6c31773d3d2d3931323533363431302e313631643336376330653536643065373333373435373133333438392e676966"  width="30%" height="50%">
 <img src="https://readme-typing-svg.demolab.com/?lines=Front-End Developer; &font=Fira%20Code&center=true&width=440&height=45&color=7230B4 &v Center=true&size=22&pause=1000" />
-<p align="left"> - 👀 I’m interested in ... developing my skills, acquiring new ones and taking advantage of them for my life and work projects.</p>
-<p align="left"> - 🌱 I’m currently learning ... JavaScrit, CSS, HTML, Git, Node, REACT.</p>
+- 👀 I’m interested in ... developing my skills, acquiring new ones and taking advantage of them for my life and work projects.
+- 🌱 I’m currently learning ... JavaScrit, CSS, HTML, Git, Node, REACT.
 <p>- ⚡ Fun fact: ... I like to dance and meet new places and people. Besides I've always followed the phrase "Promote what you love instead of attacking what you don't like"</p>
-<p align="left"> - 📫 How to reach me ... </p>
+- 📫 How to reach me ... 
 <a href="https://www.linkedin.com/in/nancy-arely-guti%C3%A9rrez-morales-3a5941149/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/ArelyGutierrez" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://app.slack.com/client/T0NNB6T0R/C03NE0ZU1DH/rimeto_profile/U03N7LQ0422" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)"></a>
@@ -37,7 +37,17 @@ You can click the Preview link to take a look at your changes.
 <p align="right"><a href="https://github.com/ArelyGutierrez?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ArelyGutierrez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <a href="https://github.com/ArelyGutierrez/Simple-View-Counter"><img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=ArelyGutierrez&style=for-the-badge&color=DFD947&labelColor=EEE517&logo=star/custom-icon-badges.demolab.com/github"/></a></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArelyGutierrez&show_icons=true&theme=transparent)
+ <!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArelyGutierrez&show_icons=true&theme=transparent) --->
+
+<details> 
+  <summary><b> GitHub Profile Stats </b></summary>
+  <br/>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArelyGutierrez&show_icons=true&locale=en&layout=compact" alt="ArelyGutierrez" /></p>
+
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArelyGutierrez&show_icons=true&locale=en" alt="ArelyGutierrez" /></p>
+
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArelyGutierrez" alt="ArelyGutierrez" /></p>
+</details>
  <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arelygutierrez&layout=compact)](https://github.com/arelygutierrez/)--->
  <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArelyGutierrez&layout=compact)](https://github.com/ArelyGutierrez) --->
 
