@@ -1,18 +1,20 @@
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<img align="left" alt="avatar" width="300" height="500"  src="https://img.wattpad.com/a268aefed387154052c43e80cd25332656cf4445/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f7857704471526c3645444b6c31773d3d2d3931323533363431302e313631643336376330653536643065373333373435373133333438392e676966">
 <h3 align="center"> 👋 Hi, I’m @ArelyGutierrez </h3> 
-<img align="left" alt="avatar" width="300"  src="https://img.wattpad.com/a268aefed387154052c43e80cd25332656cf4445/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f7857704471526c3645444b6c31773d3d2d3931323533363431302e313631643336376330653536643065373333373435373133333438392e676966">
-<img src="https://readme-typing-svg.demolab.com/?lines=Front-End Developer; &font=Fira%20Code&center=true&width=440&height=45&color=7230B4 &v Center=true&size=22&pause=1000" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Front-End Developer; &font=Fira%20Code&center=true&width=440&height=45&color=7230B4 &v Center=true&size=22&pause=1000"/>
 
-- 👀 I’m interested in ... developing my skills, acquiring new ones and taking advantage of them for my life and work projects.
-- 🌱 I’m currently learning ... JavaScrit, CSS, HTML, Git, Node, REACT.
-- ⚡ Fun fact: ... I like to dance and meet new places and people. Besides I've always followed the phrase "Promote what you love instead of attacking what you don't like"
-- 📫 How to reach me ... 
+<div>
+ <h3>👀 I’m interested in ... developing my skills, acquiring new ones and taking advantage of them for my life and work projects.</h3>
+ <h3>🌱 I’m currently learning ... JavaScrit, CSS, HTML, Git, Node, REACT.</h3>
+ <h3>⚡ Fun fact: ... I like to dance and meet new places and people. Besides I've always followed the phrase "Promote what you love instead of attacking what you don't like"</h3>
+ <h3>📫 How to reach me ... 
 <a href="https://www.linkedin.com/in/nancy-arely-guti%C3%A9rrez-morales-3a5941149/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/ArelyGutierrez" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://app.slack.com/client/T0NNB6T0R/C03NE0ZU1DH/rimeto_profile/U03N7LQ0422" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)"></a>
 <a target="_blank" href="mailto:yleraycnan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-
-
-
 
 <!---
 <a href="yleraycnan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -34,6 +36,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" alt="github" width="40" height="40"/> </a>
  <!--- <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> --->
 </p>
+</div>
 
 <p align="right"><a href="https://github.com/ArelyGutierrez?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ArelyGutierrez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <a href="https://github.com/ArelyGutierrez/Simple-View-Counter"><img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=ArelyGutierrez&style=for-the-badge&color=DFD947&labelColor=EEE517&logo=star/custom-icon-badges.demolab.com/github"/></a></p>
